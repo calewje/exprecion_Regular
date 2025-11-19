@@ -1,5 +1,5 @@
 body {
-    background-image: url('../img/shinobu.jpg');
+    /* background-image: url('../img/shinobu.jpg'); */
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -11,7 +11,7 @@ body {
     font-size: 30px;
     /* Ajusta el tamaño según lo necesites */
     font-weight: bold;
-    color: #ffeb3b;
+    color: #0c257f;
     /* Un color amarillo similar al logo de Dragon Ball */
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
     /* Sombra para darle más impacto */
@@ -28,7 +28,7 @@ body {
 
 /* Adorno card */
 .card {
-    background: linear-gradient(135deg, #2d3a9b5a, #7e48b3);
+    background: linear-gradient(135deg, #48e0a95a, #188aba);
     /* Gradiente azul a morado */
     border-radius: 15px;
     position: relative;
@@ -117,7 +117,7 @@ body {
 .table th {
     font-family: 'Bangers', cursive;
     font-size: 1.25rem;
-    color: #ffeb3b;
+    color: #0f17ad;
     /* Amarillo brillante */
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     /* Sombra para los títulos */
@@ -299,7 +299,7 @@ input.form-control:focus {
 
 /* Modificación del texto de los labels */
 label {
-    color: #ffeb3b;
+    color: #081f84;
     /* Color amarillo para los labels */
     font-weight: bold;
     /* Resaltar el texto */
